@@ -24,7 +24,7 @@ async function run() {
     //     email: "monirecebd@gmail",
     //     occupation: "Freelancer"
     //   }
-    //   const result = await userCollection.insertOne(doc);
+    //   const result = await usersCollection.insertOne(doc);
     //   console.log(`A document was inserted with the _id: ${result.insertedId}`);
     // create a document to insert data from here End
 
