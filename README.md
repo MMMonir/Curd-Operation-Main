@@ -1,18 +1,21 @@
 ## Curd Operation
 ### First steps for Backend:
-```	npm init -y
+```	
+	npm init -y
 	npm install express --save
 	npm i express cors mongodb
 	npm install -g nodemon
 ```
 
 - How to ignore upload node_modules
-```	Create a file named: gitignore
+```	
+	Create a file named: gitignore
 	and save node_modules
 ```
 
 - How to auto run Backend
-```	package.json > sctipt
+```	
+	package.json > sctipt
 	"start": "node index.js",
 	"start-dev": "nodemon index.js",
 ```
